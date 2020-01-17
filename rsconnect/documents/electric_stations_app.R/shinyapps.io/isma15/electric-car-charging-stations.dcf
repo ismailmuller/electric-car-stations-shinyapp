@@ -1,0 +1,12 @@
+name: electric-car-charging-stations
+title: electric-car-charging-stations
+username:
+account: isma15
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1627480
+bundleId: 2706472
+url: https://isma15.shinyapps.io/electric-car-charging-stations/
+when: 1578158737.08387
+asMultiple: FALSE
+asStatic: FALSE
